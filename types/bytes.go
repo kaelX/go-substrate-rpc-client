@@ -19,7 +19,7 @@ package types
 import (
 	"fmt"
 
-	"github.com/kaelX/go-substrate-rpc-client/scale"
+	"github.com/kaelnew/go-substrate-rpc-client/scale"
 )
 
 // Bytes represents byte slices. Bytes has a variable length, it is encoded with a scale prefix

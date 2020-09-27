@@ -20,8 +20,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/kaelX/go-substrate-rpc-client/client"
-	"github.com/kaelX/go-substrate-rpc-client/rpcmocksrv"
+	"github.com/kaelnew/go-substrate-rpc-client/client"
+	"github.com/kaelnew/go-substrate-rpc-client/rpcmocksrv"
 )
 
 var author *Author

@@ -20,9 +20,9 @@ import (
 	"context"
 	"log"
 
-	"github.com/kaelX/go-substrate-rpc-client/config"
-	gethrpc "github.com/kaelX/go-substrate-rpc-client/gethrpc"
-	"github.com/kaelX/go-substrate-rpc-client/types"
+	"github.com/kaelnew/go-substrate-rpc-client/config"
+	gethrpc "github.com/kaelnew/go-substrate-rpc-client/gethrpc"
+	"github.com/kaelnew/go-substrate-rpc-client/types"
 )
 
 type Client interface {

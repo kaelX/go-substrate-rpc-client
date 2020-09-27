@@ -20,7 +20,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/kaelX/go-substrate-rpc-client/types"
+	"github.com/kaelnew/go-substrate-rpc-client/types"
 	"github.com/stretchr/testify/assert"
 )
 

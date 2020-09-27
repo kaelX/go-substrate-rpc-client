@@ -5,10 +5,10 @@ import (
 	"math/big"
 	"time"
 
-	gsrpc "github.com/kaelX/go-substrate-rpc-client"
-	"github.com/kaelX/go-substrate-rpc-client/config"
-	"github.com/kaelX/go-substrate-rpc-client/signature"
-	"github.com/kaelX/go-substrate-rpc-client/types"
+	gsrpc "github.com/kaelnew/go-substrate-rpc-client"
+	"github.com/kaelnew/go-substrate-rpc-client/config"
+	"github.com/kaelnew/go-substrate-rpc-client/signature"
+	"github.com/kaelnew/go-substrate-rpc-client/types"
 )
 
 func Example_simpleConnect() {

@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/kaelX/go-substrate-rpc-client/scale"
-	"github.com/kaelX/go-substrate-rpc-client/xxhash"
+	"github.com/kaelnew/go-substrate-rpc-client/scale"
+	"github.com/kaelnew/go-substrate-rpc-client/xxhash"
 )
 
 // StorageKey represents typically hashed storage keys of the system.

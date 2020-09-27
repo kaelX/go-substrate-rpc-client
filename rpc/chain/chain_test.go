@@ -20,9 +20,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/kaelX/go-substrate-rpc-client/client"
-	"github.com/kaelX/go-substrate-rpc-client/rpcmocksrv"
-	"github.com/kaelX/go-substrate-rpc-client/types"
+	"github.com/kaelnew/go-substrate-rpc-client/client"
+	"github.com/kaelnew/go-substrate-rpc-client/rpcmocksrv"
+	"github.com/kaelnew/go-substrate-rpc-client/types"
 )
 
 var chain *Chain

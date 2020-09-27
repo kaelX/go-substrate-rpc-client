@@ -21,8 +21,8 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/kaelX/go-substrate-rpc-client/scale"
-	"github.com/kaelX/go-substrate-rpc-client/types"
+	"github.com/kaelnew/go-substrate-rpc-client/scale"
+	"github.com/kaelnew/go-substrate-rpc-client/types"
 	"github.com/stretchr/testify/assert"
 )
 

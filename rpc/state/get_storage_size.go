@@ -17,8 +17,8 @@
 package state
 
 import (
-	"github.com/kaelX/go-substrate-rpc-client/client"
-	"github.com/kaelX/go-substrate-rpc-client/types"
+	"github.com/kaelnew/go-substrate-rpc-client/client"
+	"github.com/kaelnew/go-substrate-rpc-client/types"
 )
 
 // GetStorageSize retreives the storage size for the given key

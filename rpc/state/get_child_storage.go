@@ -17,8 +17,8 @@
 package state
 
 import (
-	"github.com/kaelX/go-substrate-rpc-client/client"
-	"github.com/kaelX/go-substrate-rpc-client/types"
+	"github.com/kaelnew/go-substrate-rpc-client/client"
+	"github.com/kaelnew/go-substrate-rpc-client/types"
 )
 
 // GetChildStorage retreives the child storage for a key and decodes them into the provided interface. Ok is true if the

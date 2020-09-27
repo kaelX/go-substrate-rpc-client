@@ -17,7 +17,7 @@
 package system
 
 import (
-	"github.com/kaelX/go-substrate-rpc-client/types"
+	"github.com/kaelnew/go-substrate-rpc-client/types"
 )
 
 // NetworkState retrieves the current state of the network

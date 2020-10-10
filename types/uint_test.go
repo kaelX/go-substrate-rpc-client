@@ -22,7 +22,7 @@ import (
 	"testing"
 
 	"github.com/kaelnew/go-substrate-rpc-client/scale"
-	"github.com/kaelnew/go-substrate-rpc-client/types"
+	. "github.com/kaelnew/go-substrate-rpc-client/types"
 	"github.com/stretchr/testify/assert"
 )
 

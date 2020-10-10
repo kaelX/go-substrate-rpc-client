@@ -20,7 +20,7 @@ import (
 	"testing"
 
 	"github.com/kaelnew/go-substrate-rpc-client/signature"
-	"github.com/kaelnew/go-substrate-rpc-client/types"
+	. "github.com/kaelnew/go-substrate-rpc-client/types"
 	"github.com/stretchr/testify/assert"
 )
 
